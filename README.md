@@ -1,1 +1,1 @@
-![Image Description](simpleRPG.jpg)
+![Image Description](simpleRPG/simpleRPG.JPG)
