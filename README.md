@@ -1,1 +1,1 @@
-![Image Description](simpleRPG/simpleRPG.JPG)
+simpleRPG.jpg
